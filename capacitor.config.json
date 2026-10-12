@@ -1,0 +1,9 @@
+{
+  "appId": "com.mycalculator.app",
+  "appName": "Calculator",
+  "webDir": "www",
+  "backgroundColor": "#0F2A24",
+  "plugins": {
+    "SystemBars": { "insetsHandling": "css", "style": "DARK" }
+  }
+}
